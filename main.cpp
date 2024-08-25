@@ -43,5 +43,6 @@ int main() {
     std::cout << "Text: " << configMsg.getText() << "\n";
     std::cout << "Sender: " << configMsg.getSender() << "\n";
     std::cout << "Receiver: " << configMsg.getReceiver() << "\n\n";
+    //end
 
 };
